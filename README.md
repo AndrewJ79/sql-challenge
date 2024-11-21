@@ -1,5 +1,5 @@
 # sql-challenge
-#Employee Database Project
+Employee Database Project
 
 Description
 
